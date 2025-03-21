@@ -1,0 +1,8 @@
+remote_theme: academicpages/academicpages.github.io@v0.8.3
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
