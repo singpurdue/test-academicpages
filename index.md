@@ -6,4 +6,4 @@ author_profile: true
 ---
 # Hello World
 
-This is a minimal test of Academic Pages.
+This is a minimal test of Academic Pages. a
