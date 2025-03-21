@@ -6,4 +6,4 @@ author_profile: true
 ---
 # About This Site
 
-This is a test page to see the sidebar and top nav working.
+This is where I'd put some details about me or this test site.
