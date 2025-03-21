@@ -4,6 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 ---
-# Curriculum Vitae
+# CV
 
-Here's where I'd put my CV content.
+Put your CV details here...
