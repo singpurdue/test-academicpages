@@ -1,4 +1,12 @@
-remote_theme: academicpages/academicpages.github.io@v0.8.3
+title: "Test Academic Pages"
+name: "My Test Site"
+description: "Just testing the Academic Pages theme"
+url: "https://yourusername.github.io"
+baseurl: "/test-academicpages"
+author:
+  name: "Test Author"
+  avatar: "images/profile.jpg"
+  bio: "A short bio goes here"
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -6,3 +14,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+remote_theme: academicpages/academicpages.github.io@v0.8.3
