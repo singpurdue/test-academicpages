@@ -1,14 +1,19 @@
-title: "Test Academic Pages"
-name: "My Test Site"
-description: "Just testing Academic Pages theme"
-author:
-  name: "Test Author"
-  avatar: "images/profile.jpg"  # Or remove if you don't have a photo yet
-  bio: "A short bio goes here"
-  email: "author@example.com"
-  # etc.
+title: "Amit Singha"
+name: "Amit Singha"
+description: "Personal academic website"
+url: "https://singpurdue.github.io"
+baseurl: "/test-academicpages"  # Because your test repo is at /test-academicpages
+repository: "singpurdue/test-academicpages"
 
 remote_theme: academicpages/academicpages.github.io@v0.8.3
+
+author:
+  name: "Amit Singha"
+  avatar: "images/profile.jpg"  # Remove or replace if you don't have a photo
+  bio: "PhD Student in Electrical and Computer Engineering at Purdue University"
+  location: "Indianapolis, IN"
+  email: "singha3@purdue.edu"
+  # etc.
 
 plugins:
   - jekyll-feed
@@ -17,3 +22,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
+
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:title/
+timezone: "Etc/UTC"
