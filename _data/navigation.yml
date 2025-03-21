@@ -1,6 +1,11 @@
 - title: "About"
   url: /about/
+
 - title: "Publications"
   url: /publications/
+
 - title: "CV"
   url: /cv/
+
+- title: "Guide"
+  url: /guide/
