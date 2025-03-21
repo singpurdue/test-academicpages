@@ -4,6 +4,6 @@ title: "About"
 permalink: /about/
 author_profile: true
 ---
-# About This Site
+# About Me
 
-This is where I'd put some details about me or this test site.
+I'm a PhD student at Purdue University, researching mmWave-based wireless systems, adversarial machine learning, etc.
